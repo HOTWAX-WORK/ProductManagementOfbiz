@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+
+    <!-- ORDER CREATED -->
+    <OrderStatus orderStatusId="HWMDEMO0" statusId="ORDER_CREATED" orderId="HWMDEMO1000" statusDatetime="2025-02-03 00:00:00.0" />
+    <OrderStatus orderStatusId="HWMDEMO03" statusId="ORDER_CREATED" orderId="HWMDEMO1001" statusDatetime="2025-02-03 00:00:00.0" />
+
+    <!-- ITEM CREATED -->
+    <OrderStatus orderStatusId="HWMDEMO01" statusId="ITEM_CREATED" orderId="HWMDEMO1000" orderItemSeqId="1" statusDatetime="2025-02-03 00:00:00.0"/>
+    <OrderStatus orderStatusId="HWMDEMO02" statusId="ITEM_CREATED" orderId="HWMDEMO1000" orderItemSeqId="2" statusDatetime="2025-02-03 00:00:00.0" />
+    <OrderStatus orderStatusId="HWMDEMO04" statusId="ITEM_CREATED" orderId="HWMDEMO1001" orderItemSeqId="001" statusDatetime="2025-02-03 00:00:00.0"/>
+    <OrderStatus orderStatusId="HWMDEMO05" statusId="ITEM_CREATED" orderId="HWMDEMO1001" orderItemSeqId="002" statusDatetime="2025-02-03 00:00:00.0"/>
+    
+    
+    <!-- ITEM CANCELLED -->
+    <OrderStatus orderStatusId="HWMDEMO4" statusId="ITEM_CANCELLED" orderId="HWMDEMO1000" orderItemSeqId="001" statusDatetime="2025-02-03 00:00:00.0" />
+    <OrderStatus orderStatusId="HWMDEMO5" statusId="ITEM_CANCELLED" orderId="HWMDEMO1000" orderItemSeqId="002" statusDatetime="2025-02-03 00:00:00.0"/>
+
+    <!-- ORDER CANCELLED -->
+    <OrderStatus orderStatusId="HWMDEMO6" statusId="ORDER_CANCELLED" orderId="HWMDEMO1000" statusDatetime="2025-02-03 00:00:00.0" />
+
+    <!-- ITEM APPROVED -->
+    <OrderStatus orderStatusId="HWMDEMO1" statusId="ITEM_APPROVED" orderId="HWMDEMO1000" orderItemSeqId="1" statusDatetime="2025-02-03 00:00:00.0" />
+    <OrderStatus orderStatusId="HWMDEMO2" statusId="ITEM_APPROVED" orderId="HWMDEMO1000" orderItemSeqId="2" statusDatetime="2025-02-03 00:00:00.0"/>
+
+    <!-- ORDER APPROVED -->
+    <OrderStatus orderStatusId="HWMDEMO3" statusId="ORDER_APPROVED" orderId="HWMDEMO1000" statusDatetime="2025-02-03 00:00:00.0" />
+
+    <!-- ITEM COMPLETED -->
+    <OrderStatus orderStatusId="HWMDEMO7" statusId="ITEM_COMPLETED" orderId="HWMDEMO1000" orderItemSeqId="1" statusDatetime="2025-02-03 00:00:00.0"/>
+    <OrderStatus orderStatusId="HWMDEMO8" statusId="ITEM_COMPLETED" orderId="HWMDEMO1000" orderItemSeqId="2" statusDatetime="2025-02-03 00:00:00.0" />
+
+    <!-- ORDER COMPLETED -->
+    <OrderStatus orderStatusId="HWMDEMO9" statusId="ORDER_COMPLETED" orderId="HWMDEMO1000" statusDatetime="2025-02-03 00:00:00.0" />
+
+
+</entity-engine-xml>
+

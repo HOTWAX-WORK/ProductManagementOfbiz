@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <Party partyId="MT" partyTypeId="PERSON" preferredCurrencyUomId="USD" statusId="PARTY_ENABLED"/>
+</entity-engine-xml>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <OrderHeader orderId="HWMDEMO1001" orderTypeId="SALES_ORDER" orderName="MARK_ORDER2"
+                 orderDate="2025-02-03 18:02:47.0" statusId="ORDER_CANCELLED" />
+    <OrderHeader orderId="HWMDEMO1000" orderTypeId="SALES_ORDER" orderName="MARK_ORDER"
+                 orderDate="2025-02-03 18:02:47.0" statusId="ORDER_COMPLETED" />
+</entity-engine-xml>

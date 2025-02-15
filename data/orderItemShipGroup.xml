@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <OrderItemShipGroup orderId="HWMDEMO1000" shipGroupSeqId="HWMDEMO1" shipmentMethodTypeId="FEDEX_FREIGHT" lastUpdatedStamp="2025-02-03 19:42:21.496" lastUpdatedTxStamp="2025-02-03 19:42:21.494" createdStamp="2025-02-03 19:42:21.496" createdTxStamp="2025-02-03 19:42:21.494"/>
+</entity-engine-xml>

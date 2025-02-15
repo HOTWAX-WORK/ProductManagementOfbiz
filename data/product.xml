@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <Product productId="C2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="CHILDREN" isVirtual="Y"/>
+    <Product productId="C1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="CHILDREN" isVirtual="Y"/>
+    <Product productId="WP2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVirtual="Y"/>
+    <Product productId="WP1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVirtual="Y"/>
+    <Product productId="WF2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVirtual="Y"/>
+    <Product productId="WF1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVirtual="Y"/>
+    <Product productId="WS2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVirtual="Y"/>
+    <Product productId="WS1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVirtual="Y"/>
+    <Product productId="MP2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="MEN_PARTY" isVirtual="Y"/>
+    <Product productId="MP1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="MEN_PARTY" isVirtual="Y"/>
+    <Product productId="MF2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="MEN_FORMAL" isVirtual="Y"/>
+    <Product productId="MF1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="MEN_FORMAL" isVirtual="Y"/>
+    <Product productId="MS2" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="MEN_SPORTS" isVirtual="Y"/>
+    <Product productId="MS1" productTypeId="DIGITAL_GOOD" primaryProductCategoryId="MEN_SPORTS" isVirtual="Y"/>
+
+    <Product productId="MS1_WHITE_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_WHITE_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_WHITE_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_WHITE_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_BROWN_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_BROWN_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_BROWN_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS1_BROWN_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+
+    <Product productId="WS1_WHITE_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS1_WHITE_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS1_WHITE_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+<!--    <Product productId="MS1_WHITE_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+    <Product productId="WS1_BROWN_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS1_BROWN_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS1_BROWN_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+<!--    <Product productId="MS1_BROWN_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+
+    <Product productId="WF1_WHITE_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF1_WHITE_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF1_WHITE_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+<!--    <Product productId="MS1_WHITE_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+    <Product productId="WF1_BROWN_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF1_BROWN_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF1_BROWN_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+<!--    <Product productId="MS1_BROWN_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+
+    <Product productId="WP1_WHITE_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+    <Product productId="WP1_WHITE_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+<!--    <Product productId="WF1_WHITE_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+<!--    <Product productId="MS1_WHITE_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+    <Product productId="WP1_BROWN_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+    <Product productId="WP1_BROWN_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+<!--    <Product productId="WF1_BROWN_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+<!--    <Product productId="MS1_BROWN_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>-->
+
+    <Product productId="MF2_WHITE_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_WHITE_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_WHITE_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_WHITE_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_BROWN_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_BROWN_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_BROWN_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF2_BROWN_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+
+    <Product productId="MP1_WHITE_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_WHITE_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_WHITE_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_WHITE_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_BROWN_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_BROWN_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_BROWN_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP1_BROWN_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+
+    <Product productId="C1_WHITE_2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_WHITE_3" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_WHITE_4" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_WHITE_5" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_BROWN_2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_BROWN_3" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_BROWN_4" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C1_BROWN_5" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+
+    <Product productId="MS2_RED_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS2_RED_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS2_BLACK_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+    <Product productId="MS2_BLACK_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_SPORTS" isVariant="Y"/>
+
+    <Product productId="WS2_RED_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS2_RED_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS2_BLACK_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+    <Product productId="WS2_BLACK_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_SPORT" isVariant="Y"/>
+
+    <Product productId="WP2_RED_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+    <Product productId="WP2_RED_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+    <Product productId="WP2_BLACK_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+    <Product productId="WP2_BLACK_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_PARTY" isVariant="Y"/>
+
+    <Product productId="MF1_RED_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF1_RED_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF1_BLACK_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+    <Product productId="MF1_BLACK_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_FORMAL" isVariant="Y"/>
+
+    <Product productId="C2_RED_2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C2_RED_3" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C2_RED_5" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C2_BLACK_2" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C2_BLACK_3" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+    <Product productId="C2_BLACK_5" productTypeId="FINISHED_GOOD" primaryProductCategoryId="CHILDREN" isVariant="Y"/>
+
+    <Product productId="MP2_RED_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_RED_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_RED_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_RED_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_BLACK_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_BLACK_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_BLACK_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+    <Product productId="MP2_BLACK_10" productTypeId="FINISHED_GOOD" primaryProductCategoryId="MEN_PARTY" isVariant="Y"/>
+
+    <Product productId="WF2_RED_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF2_RED_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF2_RED_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF2_BLACK_7" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF2_BLACK_8" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+    <Product productId="WF2_BLACK_9" productTypeId="FINISHED_GOOD" primaryProductCategoryId="WOMEN_FORMAL" isVariant="Y"/>
+
+</entity-engine-xml>

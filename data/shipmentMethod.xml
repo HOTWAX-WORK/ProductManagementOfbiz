@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <CarrierShipmentMethod shipmentMethodTypeId="Ground" partyId="MT" roleTypeId="CUSTOMER" />
+    <CarrierShipmentMethod shipmentMethodTypeId="FEDEX_FREIGHT" partyId="MT" roleTypeId="CUSTOMER"/>
+    
+</entity-engine-xml>

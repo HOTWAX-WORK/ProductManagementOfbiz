@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <Person partyId="MT" firstName="Mark" middleName="B" lastName="Tailor"/>
+</entity-engine-xml>

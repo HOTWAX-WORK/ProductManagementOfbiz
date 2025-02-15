@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <OrderShipment orderId="HWMDEMO1000" orderItemSeqId="2" shipGroupSeqId="HWMDEMO1" shipmentId="HwmDemo1" shipmentItemSeqId="2" quantity="12.000000" />
+    <OrderShipment orderId="HWMDEMO1000" orderItemSeqId="1" shipGroupSeqId="HWMDEMO1" shipmentId="HwmDemo1" shipmentItemSeqId="1" quantity="12.000000" />
+</entity-engine-xml>

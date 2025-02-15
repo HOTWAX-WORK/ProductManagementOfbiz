@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <ProductFeature productFeatureId="SIZE_5" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="5" />
+    <ProductFeature productFeatureId="SIZE_4" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="4" />
+    <ProductFeature productFeatureId="SIZE_3" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="3" />
+    <ProductFeature productFeatureId="SIZE_2" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="2" />
+    <ProductFeature productFeatureId="SIZE_11" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="11" />
+    <ProductFeature productFeatureId="SIZE_10" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="10" />
+    <ProductFeature productFeatureId="SIZE_9" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="9" />
+    <ProductFeature productFeatureId="SIZE_8" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="8" />
+    <ProductFeature productFeatureId="SIZE_7" productFeatureTypeId="SIZE" productFeatureCategoryId="TEXT" description="7" />
+    <ProductFeature productFeatureId="BROWN" productFeatureTypeId="COLOR" productFeatureCategoryId="TEXT" description="BROWN" />
+    <ProductFeature productFeatureId="WHITE" productFeatureTypeId="COLOR" productFeatureCategoryId="TEXT" description="WHITE" />
+    <ProductFeature productFeatureId="BLACK" productFeatureTypeId="COLOR" productFeatureCategoryId="TEXT" description="BLACK" />
+    <ProductFeature productFeatureId="RED" productFeatureTypeId="COLOR" productFeatureCategoryId="TEXT" description="RED" />
+</entity-engine-xml>

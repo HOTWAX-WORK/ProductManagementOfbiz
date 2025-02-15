@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="C2" fromDate="2025-02-03 16:40:34.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="C1" fromDate="2025-02-03 16:40:34.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="WP1" fromDate="2025-02-03 15:45:31.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="WF1" fromDate="2025-02-02 00:00:00.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="WS1" fromDate="2025-02-01 00:00:00.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="MP1" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="MP1" fromDate="2025-02-01 00:00:00.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="MF2" fromDate="2025-02-02 00:00:00.0" />
+    <ProductCategoryMember productCategoryId="PROMOTION" productId="MS1" fromDate="2025-02-02 00:00:00.0" />
+</entity-engine-xml>

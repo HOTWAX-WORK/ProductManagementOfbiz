@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <Shipment shipmentId="HwmDemo1" shipmentTypeId="SALES_SHIPMENT" statusId="SHIPMENT_INPUT" primaryOrderId="HwmDemo1000" />
+</entity-engine-xml>

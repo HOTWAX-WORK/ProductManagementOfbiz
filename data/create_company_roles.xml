@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <PartyRole partyId="COMPANY1" roleTypeId="SUPPLIER" />
+    <PartyRole partyId="COMPANY1" roleTypeId="VENDOR" />
+    <PartyRole partyId="COMPANY1" roleTypeId="SUPPLIER_AGENT" />
+    <PartyRole partyId="COMPANY1" roleTypeId="INTERNAL_ORGANIZATIO" />
+    <PartyRole partyId="COMPANY1" roleTypeId="SHIP_FROM_VENDOR" />
+    <PartyRole partyId="COMPANY1" roleTypeId="BILL_FROM_VENDOR" />
+    <PartyRole partyId="COMPANY1" roleTypeId="BILL_TO_CUSTOMER"/>
+</entity-engine-xml>

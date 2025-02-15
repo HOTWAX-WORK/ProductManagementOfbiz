@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <ProductStoreGroup productStoreGroupId="STORE_GROUP" productStoreGroupName="Company Store Group" description="Company Store Group" />
+</entity-engine-xml>

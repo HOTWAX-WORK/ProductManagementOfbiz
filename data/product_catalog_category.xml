@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <ProdCatalogCategory prodCatalogId="SHOE_CAT" productCategoryId="PROMOTION" prodCatalogCategoryTypeId="PCCT_PROMOTIONS" fromDate="2025-02-02 00:00:00.0"/>
+    <ProdCatalogCategory prodCatalogId="SHOE_CAT" productCategoryId="BROWSE_ROOT" prodCatalogCategoryTypeId="PCCT_BROWSE_ROOT" fromDate="2025-02-02 00:00:00.0" />
+</entity-engine-xml>

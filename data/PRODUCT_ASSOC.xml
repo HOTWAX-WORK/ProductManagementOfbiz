@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <ProductAssoc productId="MS1" productIdTo="MS1_WHITE_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_WHITE_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_WHITE_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_WHITE_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_BROWN_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_BROWN_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_BROWN_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS1" productIdTo="MS1_BROWN_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS2" productIdTo="MS2_RED_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS2" productIdTo="MS2_RED_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS2" productIdTo="MS2_BLACK_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MS2" productIdTo="MS2_BLACK_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF1" productIdTo="MF1_RED_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF1" productIdTo="MF1_RED_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF1" productIdTo="MF1_BLACK_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF1" productIdTo="MF1_BLACK_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_WHITE_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_WHITE_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_WHITE_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_WHITE_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_BROWN_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_BROWN_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_BROWN_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MF2" productIdTo="MF2_BROWN_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_WHITE_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_WHITE_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_WHITE_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_WHITE_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_BROWN_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_BROWN_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_BROWN_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP1" productIdTo="MP1_BROWN_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_RED_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_RED_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_RED_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_RED_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_BLACK_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_BLACK_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_BLACK_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="MP2" productIdTo="MP2_BLACK_10" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="WS1" productIdTo="WS1_WHITE_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS1" productIdTo="WS1_WHITE_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS1" productIdTo="WS1_WHITE_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS1" productIdTo="WS1_BROWN_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS1" productIdTo="WS1_BROWN_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS1" productIdTo="WS1_BROWN_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="WS2" productIdTo="WS2_RED_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS2" productIdTo="WS2_RED_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS2" productIdTo="WS2_BLACK_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WS2" productIdTo="WS2_BLACK_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="WF1" productIdTo="WF1_WHITE_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF1" productIdTo="WF1_WHITE_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF1" productIdTo="WF1_WHITE_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF1" productIdTo="WF1_BROWN_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF1" productIdTo="WF1_BROWN_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF1" productIdTo="WF1_BROWN_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="WF2" productIdTo="WF2_RED_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF2" productIdTo="WF2_RED_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF2" productIdTo="WF2_RED_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF2" productIdTo="WF2_BLACK_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF2" productIdTo="WF2_BLACK_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WF2" productIdTo="WF2_BLACK_9" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="WP1" productIdTo="WP1_WHITE_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WP1" productIdTo="WP1_WHITE_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WP1" productIdTo="WP1_BROWN_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WP1" productIdTo="WP1_BROWN_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="WP2" productIdTo="WP2_RED_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WP2" productIdTo="WP2_RED_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WP2" productIdTo="WP2_BLACK_7" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="WP2" productIdTo="WP2_BLACK_8" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+
+    <ProductAssoc productId="C1" productIdTo="C1_WHITE_2" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_WHITE_3" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_WHITE_4" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_WHITE_5" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_BROWN_2" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_BROWN_3" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_BROWN_4" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C1" productIdTo="C1_BROWN_5" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C2" productIdTo="C2_RED_2" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C2" productIdTo="C2_RED_3" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C2" productIdTo="C2_RED_5" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C2" productIdTo="C2_BLACK_2" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C2" productIdTo="C2_BLACK_3" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+    <ProductAssoc productId="C2" productIdTo="C2_BLACK_5" productAssocTypeId="PRODUCT_VARIANT" fromDate="2025-02-02 00:00:00.0"/>
+</entity-engine-xml>

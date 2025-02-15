@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+
+<entitymodel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="https://ofbiz.apache.org/dtds/entitymodel.xsd">
+
+    <title>Entity of Task1 Component</title>
+    <description>None</description>
+    <copyright></copyright>
+    <version>1.0</version>
+
+
+    <view-entity entity-name="FindProductView"
+                 package-name="productManagement"
+                 title="FindProductView">
+
+        <member-entity entity-alias="PROD" entity-name="Product" />
+        <member-entity entity-alias="PRC" entity-name="ProductPrice" />
+        <member-entity entity-alias="PCAT" entity-name="ProductCategoryMember"/>
+        <member-entity entity-alias="PC" entity-name="ProductCategory"/>
+        <member-entity entity-alias="PFA" entity-name="ProductFeatureAppl"/>
+        <member-entity entity-alias="PF" entity-name="ProductFeature"/>
+
+        <alias entity-alias="PROD" name="productId"/>
+        <alias entity-alias="PROD" name="productName"/>
+        <alias entity-alias="PROD" name="productTypeId"/>
+        <alias entity-alias="PROD" name="primaryProductCategoryId"/>
+        <alias entity-alias="PROD" name="introductionDate"/>
+        <alias entity-alias="PROD" name="isVariant"/>
+        <alias entity-alias="PROD" name="isVirtual"/>
+        <alias entity-alias="PC" name="productCategoryId"/>
+        <alias entity-alias="PC" name="productCategoryTypeId"/>
+        <alias entity-alias="PC" name="primaryParentCategoryId"/>
+        <alias entity-alias="PC" name="description"/>
+        <alias entity-alias="PCAT" name="categoryFrom" field="fromDate"/>
+        <alias entity-alias="PCAT" name="categoryTo" field="thruDate"/>
+        <alias entity-alias="PRC" name="productPriceTypeId"/>
+        <alias entity-alias="PRC" name="price"/>
+        <alias entity-alias="PRC" name="productPricePurposeId"/>
+        <alias entity-alias="PRC" name="currencyUomId"/>
+        <alias entity-alias="PRC" name="priceFrom" field="fromDate"/>
+        <alias entity-alias="PRC" name="priceThru" field="thruDate"/>
+        <alias entity-alias="PF" name="productFeatureTypeId"/>
+        <alias entity-alias="PF" name="FeatureDescription" field="description"/>
+        <alias entity-alias="PF" name="uomId"/>
+        <alias entity-alias="PF" name="numberSpecified"/>
+        <alias entity-alias="PFA" name="productFeatureApplTypeId"/>
+        <alias entity-alias="PFA" name="featureFrom" field="fromDate"/>
+        <alias entity-alias="PFA" name="featureThru" field="thruDate"/>
+
+        <view-link entity-alias="PROD" rel-entity-alias="PRC" rel-optional="true">
+            <key-map field-name="productId"/>
+        </view-link>
+        <view-link entity-alias="PROD" rel-entity-alias="PCAT" rel-optional="true">
+            <key-map field-name="productId"/>
+        </view-link>
+        <view-link entity-alias="PCAT" rel-entity-alias="PC" rel-optional="true">
+            <key-map field-name="productCategoryId"/>
+        </view-link>
+        <view-link entity-alias="PROD" rel-entity-alias="PFA" rel-optional="true">
+            <key-map field-name="productId"/>
+        </view-link>
+        <view-link entity-alias="PFA" rel-entity-alias="PF" rel-optional="true">
+            <key-map field-name="productFeatureId"/>
+        </view-link>
+
+
+    </view-entity>
+
+
+
+</entitymodel>

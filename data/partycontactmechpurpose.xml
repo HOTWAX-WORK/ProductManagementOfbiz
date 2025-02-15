@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <PartyContactMechPurpose partyId="MT" contactMechId="10049" contactMechPurposeTypeId="PHONE_BILLING" fromDate="2025-02-03 17:50:59.293" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10048" contactMechPurposeTypeId="BILLING_LOCATION" fromDate="2025-02-03 17:59:57.508" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10046" contactMechPurposeTypeId="PHONE_SHIPPING" fromDate="2025-02-03 17:51:32.283" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10045" contactMechPurposeTypeId="SHIPPING_LOCATION" fromDate="2025-02-03 17:50:34.672" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10044" contactMechPurposeTypeId="PHONE_SHIPPING" fromDate="2025-02-03 17:51:32.283" thruDate="2025-02-03 17:57:04.196" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10043" contactMechPurposeTypeId="PHONE_BILLING" fromDate="2025-02-03 17:50:59.293" thruDate="2025-02-03 18:00:29.876" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10042" contactMechPurposeTypeId="SHIPPING_LOCATION" fromDate="2025-02-03 17:50:34.672" thruDate="2025-02-03 17:56:31.598" />
+    <PartyContactMechPurpose partyId="MT" contactMechId="10041" contactMechPurposeTypeId="BILLING_LOCATION" fromDate="2025-02-03 17:48:43.589" thruDate="2025-02-03 17:59:57.516" />
+   
+</entity-engine-xml>

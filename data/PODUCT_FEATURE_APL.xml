@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <!-- Men > MSports -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="MS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="MS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="MS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="MS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_10" productId="MS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="MS1"/>
+    <!-- Men > MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MS1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MS1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MS1_WHITE_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MS1_WHITE_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MS1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MS1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MS1_BROWN_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MS1_BROWN_10"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MS1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="MS1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="MS1_WHITE_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MS1_WHITE_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MS1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="MS1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="MS1_BROWN_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MS1_BROWN_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="MS2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="MS2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="MS2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_10" productId="MS2"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="MS2_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="MS2_RED_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="MS2_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="MS2_BLACK_10"/>
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MS2_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MS2_RED_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MS2_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MS2_BLACK_10"/>
+
+    <!-- Men > MFormal -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="MF1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="MF1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="MF1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_10" productId="MF1"/>
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="MF1_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="MF1_RED_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="MF1_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="MF1_BLACK_10"/>
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MF1_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MF1_RED_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MF1_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MF1_BLACK_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="MF2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="MF2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="MF2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="MF2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="MF2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_10" productId="MF2"/>
+
+    -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MF2_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MF2_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MF2_WHITE_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MF2_WHITE_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MF2_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MF2_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MF2_BROWN_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MF2_BROWN_10"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MF2_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="MF2_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="MF2_WHITE_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MF2_WHITE_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MF2_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="MF2_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="MF2_BROWN_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MF2_BROWN_10"/>
+
+
+    <!-- Men > MParty -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="MP1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="MP1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="MP1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="MP1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="MP1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_10" productId="MP1"/>
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MP1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MP1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MP1_WHITE_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="MP1_WHITE_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MP1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MP1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MP1_BROWN_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="MP1_BROWN_10"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MP1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="MP1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="MP1_WHITE_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MP1_WHITE_10"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="MP1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="MP1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="MP1_BROWN_9"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="MP1_BROWN_10"/>
+
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="MP2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="MP2"/>
+        
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="MP2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="MP2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="MP2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_10" productId="MP2"/>
+    
+    <!-- Women > WSports -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="WS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="WS1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="WS1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="WS1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="WS1"/>
+
+    -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WS1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WS1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WS1_WHITE_9"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WS1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WS1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WS1_BROWN_9"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WS1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="WS1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="WS1_WHITE_9"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WS1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="WS1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="WS1_BROWN_9"/>
+
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="WS2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="WS2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="WS2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="WS2"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="WS2_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="WS2_RED_8"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="WS2_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="WS2_BLACK_8"/>
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WS2_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="WS2_RED_8"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WS2_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="WS2_BLACK_8"/>
+
+    <!-- Women > WFormal -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="WF1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="WF1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="WF1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="WF1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="WF1"/>
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WF1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WF1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WF1_WHITE_9"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WF1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WF1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WF1_BROWN_9"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WF1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="WF1_WHITE_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="WF1_WHITE_9"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WF1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="WF1_BROWN_8"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_9" productId="WF1_BROWN_9"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="WF2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="WF2"/>
+       <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="WF2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="WF2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_9" productId="WF2"/>
+    <!-- Women > WParty -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="WP1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="WP1"/>
+       <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="WP1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="WP1"/>
+
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WP1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="WP1_WHITE_8"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WP1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="WP1_BROWN_8"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WP1_WHITE_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="WP1_WHITE_8"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WP1_BROWN_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_8" productId="WP1_BROWN_8"/>
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="WP2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="WP2"/>
+      <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_7" productId="WP2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_8" productId="WP2"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="WP2_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="WP2_RED_8"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="WP2_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BLACK" productId="WP2_BLACK_8"/>
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WP2_RED_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="WP2_RED_8"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_7" productId="WP2_BLACK_7"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_10" productId="WP2_BLACK_8"/>
+
+
+    <!-- Children -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="WHITE" productId="C1"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BROWN" productId="C1"/>
+      <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_2" productId="C1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_3" productId="C1"/>
+      <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_4" productId="C1"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_5" productId="C1"/>
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="C1_WHITE_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="C1_WHITE_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="C1_WHITE_4"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="WHITE" productId="C1_WHITE_5"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C1_BROWN_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C1_BROWN_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C1_BROWN_4"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C1_BROWN_5"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_2" productId="C1_WHITE_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_3" productId="C1_WHITE_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_4" productId="C1_WHITE_4"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_5" productId="C1_WHITE_5"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_2" productId="C1_BROWN_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_3" productId="C1_BROWN_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_4" productId="C1_BROWN_4"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_5" productId="C1_BROWN_5"/>
+
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="RED" productId="C2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="BLACK" productId="C2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_2" productId="C2"/>
+    
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_3" productId="C2"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="SELECTABLE_FEATURE" productFeatureId="SIZE_5" productId="C2"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="C2_RED_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="C2_RED_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="RED" productId="C2_RED_5"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C2_BLACK_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C2_BLACK_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="BROWN" productId="C2_BLACK_5"/>
+
+    <!-- Sizes for MSports Variants -->
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_2" productId="C2_RED_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_3" productId="C2_RED_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_5" productId="C2_RED_5"/>
+
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_2" productId="C2_BLACK_2"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_3" productId="C2_BLACK_3"/>
+    <ProductFeatureAppl fromDate="2025-02-03 15:45:31.0" productFeatureApplTypeId="STANDARD_FEATURE" productFeatureId="SIZE_5" productId="C2_BLACK_5"/>
+
+
+</entity-engine-xml>

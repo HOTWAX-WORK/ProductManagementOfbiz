@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <OrderItem orderId="HWMDEMO1001" orderItemSeqId="002" productId="MS1_WHITE_7" prodCatalogId="SHOE_CAT" isPromo="Y" quantity="1.000000" unitPrice="220.000" statusId="ITEM_CANCELLED"/>
+    <OrderItem orderId="HWMDEMO1001" orderItemSeqId="001" productId="MS1_BROWN_8"  prodCatalogId="SHOE_CAT" isPromo="Y" quantity="1.000000" unitPrice="220.000" statusId="ITEM_CANCELLED" />
+    <OrderItem orderId="HWMDEMO1000" orderItemSeqId="2" productId="WS2_RED_7"  prodCatalogId="SHOE_CAT" quantity="12.000000" unitPrice="200.000" statusId="ITEM_CREATED" />
+    <OrderItem orderId="HWMDEMO1000" orderItemSeqId="1" productId="C1_WHITE_2"  prodCatalogId="SHOE_CAT" quantity="12.000000" unitPrice="200.000" statusId="ITEM_CREATED"/>
+</entity-engine-xml>

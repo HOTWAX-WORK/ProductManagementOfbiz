@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+ <ProductCategory productCategoryId="PROMOTION" productCategoryTypeId="CATALOG_CATEGORY" categoryName="PROMOTION" />
+    <ProductCategory productCategoryId="BROWSE_ROOT" productCategoryTypeId="CATALOG_CATEGORY" categoryName="BROWSE_ROOT" />
+    <ProductCategory productCategoryId="CHILDREN" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="BROWSE_ROOT" categoryName="CHILDREN"/>
+    <ProductCategory productCategoryId="WOMEN" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="BROWSE_ROOT" categoryName="WOMEN" />
+    <ProductCategory productCategoryId="MEN" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="BROWSE_ROOT" categoryName="MEN" />
+   
+    <ProductCategory productCategoryId="WOMEN_PARTY" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="WOMEN" categoryName="WOMEN_PARTY" />
+    <ProductCategory productCategoryId="WOMEN_FORMAL" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="WOMEN" categoryName="WOMEN_FORMAL"/>
+    <ProductCategory productCategoryId="WOMEN_SPORT" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="WOMEN" categoryName="WOMEN_SPORT" />
+    <ProductCategory productCategoryId="MEN_PARTY" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="MEN" categoryName="MEN_PARTY"/>
+    <ProductCategory productCategoryId="MEN_FORMAL" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="MEN" categoryName="MEN_FORMAL"/>
+    <ProductCategory productCategoryId="MEN_SPORTS" productCategoryTypeId="CATALOG_CATEGORY" primaryParentCategoryId="MEN" categoryName="MEN_SPORTS" />
+</entity-engine-xml>

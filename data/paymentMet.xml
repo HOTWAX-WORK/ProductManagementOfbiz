@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <PaymentMethod paymentMethodId="10011" paymentMethodTypeId="CREDIT_CARD" partyId="MT" fromDate="2025-02-03 17:59:57.508" />
+    <PaymentMethod paymentMethodId="10010" paymentMethodTypeId="CREDIT_CARD" partyId="MT" fromDate="2025-02-03 17:58:37.52" thruDate="2025-02-03 17:59:57.508" />
+</entity-engine-xml>

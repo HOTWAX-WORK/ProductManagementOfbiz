@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <CreditCard paymentMethodId="10011" cardType="CCT_VISA" cardNumber="4111111111111111" expireDate="12/2034" firstNameOnCard="MARK" lastNameOnCard="TAILOR" contactMechId="10048" />
+    <CreditCard paymentMethodId="10010" cardType="CCT_VISA" cardNumber="4111111111111111" expireDate="12/2034" firstNameOnCard="MARK" lastNameOnCard="TAILOR" contactMechId="10041" />
+   
+</entity-engine-xml>

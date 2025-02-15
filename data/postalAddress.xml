@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <PostalAddress contactMechId="10048" toName="Mark k Tailor" attnName="Mark k Tailor" address1="HotWax Media Inc. 136 S MAIN ST #A200" address2="Salt Lake City, UT, USA" city="INDORE" postalCode="84101" countryGeoId="USA" stateProvinceGeoId="AA" />
+    <PostalAddress contactMechId="10045" toName="Mark k Tailor" attnName="Mark k Tailor" address1="HotWax Media Inc. 136 S MAIN ST" address2="#A200 Salt Lake City, UT, USA" city="INDORE" postalCode="84101" countryGeoId="USA" stateProvinceGeoId="AA" />
+    <PostalAddress contactMechId="10042" toName="Mark k Tailor" attnName="Mark k Tailor" address1="Harsinghar Society, Indore" address2="Madhya Pradesh" city="INDORE" postalCode="452010" countryGeoId="USA" stateProvinceGeoId="AA" />
+    <PostalAddress contactMechId="10041" toName="Mark k Tailor" attnName="Mark k Tailor" address1="Harsinghar Society, Indore" address2="Madhya Pradesh" city="INDORE" postalCode="452011" countryGeoId="USA" stateProvinceGeoId="AA" />
+    
+</entity-engine-xml>

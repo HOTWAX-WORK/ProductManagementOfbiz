@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <ContactMech contactMechId="10049" contactMechTypeId="TELECOM_NUMBER" />
+    <ContactMech contactMechId="10048" contactMechTypeId="POSTAL_ADDRESS"/>
+    <ContactMech contactMechId="10047" contactMechTypeId="EMAIL_ADDRESS" infoString="mark.tailor@hotwaxmedia.com" />
+    <ContactMech contactMechId="10046" contactMechTypeId="TELECOM_NUMBER"/>
+    <ContactMech contactMechId="10045" contactMechTypeId="POSTAL_ADDRESS" />
+    <ContactMech contactMechId="10044" contactMechTypeId="TELECOM_NUMBER" />
+    <ContactMech contactMechId="10043" contactMechTypeId="TELECOM_NUMBER" />
+    <ContactMech contactMechId="10042" contactMechTypeId="POSTAL_ADDRESS" />
+    <ContactMech contactMechId="10041" contactMechTypeId="POSTAL_ADDRESS"/>
+    <ContactMech contactMechId="10040" contactMechTypeId="EMAIL_ADDRESS" infoString="marktailor@gmail.com" />
+</entity-engine-xml>
