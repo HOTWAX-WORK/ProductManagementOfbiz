@@ -37,7 +37,18 @@
     font-weight: bold;
     color: #009879;
 }
+    .pagination a {
+        margin: 0 5px;
+    }
 </style>
+<#assign viewSize = 10/>
+<#if productList?size lt 10>
+      <#assign viewSize = productList?size/>
+</#if>
+<#assign viewIndexParam = requestParameters.VIEW_INDEX!"0"/>
+<#assign viewIndex = viewIndexParam?number/>
+<#assign listSize = productList?size/>
+<#assign highIndex = (viewIndex + 1) * viewSize/>
 
 <table class="styled-table">
     <thead>
@@ -56,7 +67,7 @@
 
     <#if productList?has_content>
     <tbody>
-        <#list productList as result>
+        <#list productList[viewIndex * viewSize .. highIndex - 1] as result>
             <tr>
                 <td>${result.get("productId")!""}</td>
                 <td>${result.get("productName")!""}</td>
@@ -76,3 +87,26 @@
     </tbody>
     </#if>
 </table>
+<div style="margin-top: 10px; text-align: center;">
+    <!-- Previous Button -->
+    <#if viewIndex?number gt 0>
+        <a href="${request.getRequestURI()}?VIEW_INDEX=${viewIndex - 1}" style="padding: 5px 10px; border: 1px solid #ccc; margin-right: 5px; text-decoration: none;">
+            &laquo; ${uiLabelMap.CommonPrevious}
+        </a>
+    </#if>
+
+    <#assign numPages = (listSize + viewSize - 1) / viewSize?number/>
+    <#list 0 .. numPages - 1 as pageIndex>
+        <a href="${request.getRequestURI()}?VIEW_INDEX=${pageIndex}" style="padding: 5px 10px; border: 1px solid #ccc; margin-right: 5px; text-decoration: none;
+           <#if pageIndex == viewIndex>font-weight: bold;</#if>">
+            ${pageIndex + 1}
+        </a>
+    </#list>
+
+    <#if highIndex < listSize>
+        <a href="${request.getRequestURI()}?VIEW_INDEX=${viewIndex + 1}" style="padding: 5px 10px; border: 1px solid #ccc; margin-left: 5px; text-decoration: none;">
+            ${uiLabelMap.CommonNext} &raquo;
+        </a>
+    </#if>
+</div>
+
